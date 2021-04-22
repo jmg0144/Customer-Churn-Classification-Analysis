@@ -66,4 +66,4 @@ For additional information contact Justin Giovatto at justin.giovatto@gmail.com
 
 ├── SyriaTel-Churn-Analysis-Presentation.pdf
 
-└── SyriaTel-Customer-Churn_Analysis.ipynb
+└── SyriaTel-Customer-Churn-Analysis.ipynb
