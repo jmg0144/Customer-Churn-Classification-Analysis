@@ -55,7 +55,7 @@ Based on the analysis, my main business recommendations are as follows:
 3. Create a competitive international plan to prevent international customers from leaving as well as attract more international customers overall.
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/jmg0144/home-sales-analysis/blob/main/home-sales-analysis.ipynb) 
+See the full analysis in the [Jupyter Notebook](https://github.com/jmg0144/churn-analysis-project/blob/main/SyriaTel-Customer-Churn-Analysis.ipynb) 
 
 For additional information contact Justin Giovatto at justin.giovatto@gmail.com
 
