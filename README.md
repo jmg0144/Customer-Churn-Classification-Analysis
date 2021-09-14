@@ -29,22 +29,30 @@ The dataset contains relevant customer account data including:
   
   - The data appears to contain no missing values.
 
+![Screen Shot 2021-09-14 at 12 59 03 PM](https://user-images.githubusercontent.com/66973223/133307580-1a80b896-69e0-421b-be42-56cf9b1a650e.png)
+
+![Screen Shot 2021-09-14 at 12 59 26 PM](https://user-images.githubusercontent.com/66973223/133307730-af160cd2-91ee-44a7-8d75-c2f1f94f9436.png)
+
 ## Methods
-SyriaTel customer data will be used to create six different classification models to predict customer churn
+* SyriaTel customer data will be used to create six different classification models to predict customer churn.
 
-The models will then be analyzed according to precision metric
+* The models will then be analyzed according to the precision metric.
 
-The best performing model will be analyzed for top feature importance
+* The best performing model will be analyzed for top feature importance.
 
-Business recommendations will then be presented 
+* Business recommendations will then be presented. 
 
-## Results & Conclusions  
+## Results & Conclusions
+
+![Screen Shot 2021-09-14 at 1 43 50 PM](https://user-images.githubusercontent.com/66973223/133308192-1a07686d-bf1a-4521-acdd-ab94040dc43f.png)
 
 The top performing model accorinding to the precision and ROC metrics was a Random Forest model using GridsearchCV in order to tune parameters. The top three features according to this model include:
 
 1. Total Charge
 2. Customer Service Calls
 3. Total International Minutes
+
+![Screen Shot 2021-09-14 at 1 43 24 PM](https://user-images.githubusercontent.com/66973223/133308059-17f13268-90d8-4dcc-8916-6924d859f7b6.png)
 
 Based on the analysis, my main business recommendations are as follows:
 
