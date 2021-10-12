@@ -45,15 +45,15 @@ The dataset contains relevant customer account data including:
 * Business recommendations will then be presented. 
 
 ## Results & Conclusions
-![Screen Shot 2021-10-12 at 5 30 39 PM](https://user-images.githubusercontent.com/66973223/137032333-4e222113-d04d-4fda-a342-f011bedc36fa.png)
+![Screen Shot 2021-10-12 at 7 35 40 PM](https://user-images.githubusercontent.com/66973223/137042873-202a3c36-4697-4bef-87eb-a32cafa073ef.png)
 
-![Screen Shot 2021-10-12 at 5 31 00 PM](https://user-images.githubusercontent.com/66973223/137032416-6a19d9e8-112d-41b7-8692-3587551ef698.png)
+![Screen Shot 2021-10-12 at 7 15 41 PM](https://user-images.githubusercontent.com/66973223/137041678-44f948ea-d3fd-4d32-8c70-48added90f99.png)
 
-![Screen Shot 2021-10-12 at 5 31 18 PM](https://user-images.githubusercontent.com/66973223/137032461-74001738-2996-49b9-b833-f2d585399a2f.png)
+![Screen Shot 2021-10-12 at 7 16 07 PM](https://user-images.githubusercontent.com/66973223/137041707-c80deb6d-5780-4066-b9f8-d3af2fa761b7.png)
 
-![Screen Shot 2021-10-12 at 5 31 34 PM](https://user-images.githubusercontent.com/66973223/137032494-a78b7a03-a0ec-4969-a5f8-cc0935581607.png)
+![Screen Shot 2021-10-12 at 7 16 23 PM](https://user-images.githubusercontent.com/66973223/137041739-2c0f1955-42d0-4fc7-8028-11e0fd01781e.png)
 
-![Screen Shot 2021-10-12 at 5 43 24 PM](https://user-images.githubusercontent.com/66973223/137033232-e0492aec-690d-4bb9-bc42-75c448ff0bca.png)
+![Screen Shot 2021-10-12 at 7 16 36 PM](https://user-images.githubusercontent.com/66973223/137041780-43fbd7f5-2831-4885-974e-93167d27bcff.png)
 
 The top performing model accorinding to the precision and ROC metrics was a Random Forest model using GridsearchCV in order to tune parameters. The top three features according to this model include:
 
@@ -61,7 +61,9 @@ The top performing model accorinding to the precision and ROC metrics was a Rand
 2. Customer Service Calls
 3. Total International Minutes
 
-![Screen Shot 2021-10-12 at 5 43 11 PM](https://user-images.githubusercontent.com/66973223/137033276-6807f74b-f7c6-4902-9726-9932139151b6.png)
+![Screen Shot 2021-10-12 at 7 16 49 PM](https://user-images.githubusercontent.com/66973223/137041812-425271eb-9281-4e06-9d19-2e62df834887.png)
+
+![Screen Shot 2021-10-12 at 7 17 46 PM](https://user-images.githubusercontent.com/66973223/137041827-57e86b29-be8a-4a6f-9746-57a5a61787d2.png)
 
 ![Screen Shot 2021-10-12 at 5 39 50 PM](https://user-images.githubusercontent.com/66973223/137032824-36860349-c232-4fac-acc2-35cd3932e7f4.png)
 
