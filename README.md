@@ -27,7 +27,7 @@ The dataset contains relevant customer account data including:
     
   - Whether or not the customer was 'true' or 'false' churn (true churn meaning that they have left the company, this will be the primary focus of the models)
   
-  - The data appears to contain no missing values.
+  - The data contains no missing values.
 
 ![Screen Shot 2021-10-12 at 5 29 28 PM](https://user-images.githubusercontent.com/66973223/137032113-ee4ab177-ea09-490a-88b2-75942a2c066e.png)
 
