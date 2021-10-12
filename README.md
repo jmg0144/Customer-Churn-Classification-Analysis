@@ -29,9 +29,11 @@ The dataset contains relevant customer account data including:
   
   - The data appears to contain no missing values.
 
-![Screen Shot 2021-09-14 at 12 59 03 PM](https://user-images.githubusercontent.com/66973223/133307580-1a80b896-69e0-421b-be42-56cf9b1a650e.png)
+![Screen Shot 2021-10-12 at 5 29 28 PM](https://user-images.githubusercontent.com/66973223/137032113-ee4ab177-ea09-490a-88b2-75942a2c066e.png)
 
-![Screen Shot 2021-09-14 at 12 59 26 PM](https://user-images.githubusercontent.com/66973223/133307730-af160cd2-91ee-44a7-8d75-c2f1f94f9436.png)
+![Screen Shot 2021-10-12 at 5 30 06 PM](https://user-images.githubusercontent.com/66973223/137032197-4c16e344-a6ff-4009-b2af-c34d4b5820cc.png)
+
+![Screen Shot 2021-10-12 at 5 30 19 PM](https://user-images.githubusercontent.com/66973223/137032241-f790f235-7eec-41bb-9699-4ff578dd0a82.png)
 
 ## Methods
 * SyriaTel customer data will be used to create six different classification models to predict customer churn.
@@ -43,8 +45,15 @@ The dataset contains relevant customer account data including:
 * Business recommendations will then be presented. 
 
 ## Results & Conclusions
+![Screen Shot 2021-10-12 at 5 30 39 PM](https://user-images.githubusercontent.com/66973223/137032333-4e222113-d04d-4fda-a342-f011bedc36fa.png)
 
-![Screen Shot 2021-09-14 at 1 43 50 PM](https://user-images.githubusercontent.com/66973223/133308192-1a07686d-bf1a-4521-acdd-ab94040dc43f.png)
+![Screen Shot 2021-10-12 at 5 31 00 PM](https://user-images.githubusercontent.com/66973223/137032416-6a19d9e8-112d-41b7-8692-3587551ef698.png)
+
+![Screen Shot 2021-10-12 at 5 31 18 PM](https://user-images.githubusercontent.com/66973223/137032461-74001738-2996-49b9-b833-f2d585399a2f.png)
+
+![Screen Shot 2021-10-12 at 5 31 34 PM](https://user-images.githubusercontent.com/66973223/137032494-a78b7a03-a0ec-4969-a5f8-cc0935581607.png)
+
+![Screen Shot 2021-10-12 at 5 43 24 PM](https://user-images.githubusercontent.com/66973223/137033232-e0492aec-690d-4bb9-bc42-75c448ff0bca.png)
 
 The top performing model accorinding to the precision and ROC metrics was a Random Forest model using GridsearchCV in order to tune parameters. The top three features according to this model include:
 
@@ -52,7 +61,9 @@ The top performing model accorinding to the precision and ROC metrics was a Rand
 2. Customer Service Calls
 3. Total International Minutes
 
-![Screen Shot 2021-09-14 at 1 43 24 PM](https://user-images.githubusercontent.com/66973223/133308059-17f13268-90d8-4dcc-8916-6924d859f7b6.png)
+![Screen Shot 2021-10-12 at 5 43 11 PM](https://user-images.githubusercontent.com/66973223/137033276-6807f74b-f7c6-4902-9726-9932139151b6.png)
+
+![Screen Shot 2021-10-12 at 5 39 50 PM](https://user-images.githubusercontent.com/66973223/137032824-36860349-c232-4fac-acc2-35cd3932e7f4.png)
 
 Based on the analysis, my main business recommendations are as follows:
 
