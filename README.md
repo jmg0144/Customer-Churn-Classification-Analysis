@@ -49,7 +49,7 @@ The dataset contains relevant customer account data including:
 
 ![Screen Shot 2021-10-12 at 7 15 41 PM](https://user-images.githubusercontent.com/66973223/137041678-44f948ea-d3fd-4d32-8c70-48added90f99.png)
 
-![Screen Shot 2021-10-12 at 7 16 07 PM](https://user-images.githubusercontent.com/66973223/137041707-c80deb6d-5780-4066-b9f8-d3af2fa761b7.png)
+![Screen Shot 2021-10-12 at 8 39 21 PM](https://user-images.githubusercontent.com/66973223/137047570-b9dafe95-b6d1-4dff-ade4-6377045a9d36.png)
 
 ![Screen Shot 2021-10-12 at 7 16 23 PM](https://user-images.githubusercontent.com/66973223/137041739-2c0f1955-42d0-4fc7-8028-11e0fd01781e.png)
 
