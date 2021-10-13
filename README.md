@@ -27,7 +27,7 @@ The dataset contains relevant customer account data including:
     
   - Whether or not the customer was 'true' or 'false' churn (true churn meaning that they have left the company, this will be the primary focus of the models)
   
-  - The data contains no missing values.
+  - The data contains no missing values
 
 ![Screen Shot 2021-10-12 at 5 29 28 PM](https://user-images.githubusercontent.com/66973223/137032113-ee4ab177-ea09-490a-88b2-75942a2c066e.png)
 
@@ -55,6 +55,7 @@ The dataset contains relevant customer account data including:
 
 ![Screen Shot 2021-10-12 at 7 16 36 PM](https://user-images.githubusercontent.com/66973223/137041780-43fbd7f5-2831-4885-974e-93167d27bcff.png)
 
+## Top Performing Model
 The top performing model accorinding to the precision and ROC metrics was a Random Forest model using GridsearchCV in order to tune parameters. The top three features according to this model include:
 
 1. Total Charge
@@ -63,8 +64,9 @@ The top performing model accorinding to the precision and ROC metrics was a Rand
 
 ![Screen Shot 2021-10-12 at 7 16 49 PM](https://user-images.githubusercontent.com/66973223/137041812-425271eb-9281-4e06-9d19-2e62df834887.png)
 
-![Screen Shot 2021-10-12 at 7 17 46 PM](https://user-images.githubusercontent.com/66973223/137041827-57e86b29-be8a-4a6f-9746-57a5a61787d2.png)
+![Screen Shot 2021-10-12 at 7 55 04 PM](https://user-images.githubusercontent.com/66973223/137044314-8f6c30e6-23eb-4544-ac28-577bc3b9cd6e.png)
 
+## Model Comparison
 ![Screen Shot 2021-10-12 at 5 39 50 PM](https://user-images.githubusercontent.com/66973223/137032824-36860349-c232-4fac-acc2-35cd3932e7f4.png)
 
 Based on the analysis, my main business recommendations are as follows:
