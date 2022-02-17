@@ -1,39 +1,43 @@
 # SyriaTel Customer Churn Analysis
-Author: Justin Giovatto
+
 ## Overview
 This project analyzes SyriaTel customer account data in order to build classifications models aimed at predicting customer churn. 
-## Business Problem
+## Business Objective
 SyriaTel, a telecommunications company, is interested in knowing the important factors in determining whether or not a customer will stay with the company. The primary goal of this notebook is to help SyriaTel keep current customers and offer business strategies on how to do so based on the analysis provided.  
 
 ## Data
 The dataset contains relevant customer account data including:
-  - The state the customer is from
+
+  - The state of the customer.
     
-  - The account length of the customer
+  - The account length of the customer.
     
-  - the customer's area code
+  - The customer's area code.
     
-  - Whether or not the customer has an international plan
+  - Whether or not the customer has an international plan.
     
-  - Whether or not the customer has a voicemail plan
+  - Whether or not the customer has a voicemail plan.
     
-  - The total day, evening, night, and international minutes of the customer
+  - The total day, evening, night, and international minutes of the customer.
     
-  - The total day, evening, night, and international calls of the customer
+  - The total day, evening, night, and international calls of the customer.
     
-  - The total day, evening, night, and international charge of the customer
+  - The total day, evening, night, and international charge of the customer.
     
-  - The total customer service calls of the customer
+  - The total customer service calls of the customer.
     
-  - Whether or not the customer was 'true' or 'false' churn (true churn meaning that they have left the company, this will be the primary focus of the models)
+  - Whether or not the customer was 'true' or 'false' churn (true churn meaning that they have left the company, this will be the primary focus of the models).
   
-  - The data contains no missing values
+  - The data contains no missing values.
 
 ![Screen Shot 2021-10-12 at 5 29 28 PM](https://user-images.githubusercontent.com/66973223/137032113-ee4ab177-ea09-490a-88b2-75942a2c066e.png)
+ - Data contains significatly more 'false's than 'true's, this will need to be addressed later when building models in order to prevent class imbalance.
 
 ![Screen Shot 2021-10-12 at 5 30 06 PM](https://user-images.githubusercontent.com/66973223/137032197-4c16e344-a6ff-4009-b2af-c34d4b5820cc.png)
+ - Internaional plan will need to be converted to a categorical feature.
 
 ![Screen Shot 2021-10-12 at 5 30 19 PM](https://user-images.githubusercontent.com/66973223/137032241-f790f235-7eec-41bb-9699-4ff578dd0a82.png)
+ - Customer service calls does not appear to be evenly distributed. This feature could be relevant at predicting churn as cutomers who are unhappy with their service would likely make more customer service calls.
 
 ## Methods
 * SyriaTel customer data will be used to create six different classification models to predict customer churn.
@@ -78,15 +82,4 @@ Based on the analysis, my main business recommendations are as follows:
 3. Create a competitive international plan to prevent international customers from leaving as well as attract more international customers overall.
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/jmg0144/churn-analysis-project/blob/main/SyriaTel-Customer-Churn-Analysis.ipynb) 
-
-For additional information contact Justin Giovatto at justin.giovatto@gmail.com
-
-## Repository Structure
-├── data
-
-├── README.md
-
-├── SyriaTel-Churn-Analysis-Presentation.pdf
-
-└── SyriaTel-Customer-Churn-Analysis.ipynb
+See the full analysis in the [Jupyter Notebook](https://github.com/jmg0144/churn-analysis-project/blob/main/SyriaTel-Customer-Churn-Analysis.ipynb)
